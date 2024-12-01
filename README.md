@@ -2,7 +2,7 @@
 *这是一个供中国用户使用的项目。如果你不知道这是什么，请关闭此页面。
 
 # 预览展示效果
-  [点击预览](https://studentconstellation.github.io/alipayqrcode.html)
+  [点击预览](https://studentconstellation.github.io/alipayqrcodetest.html)
 
 # 如何使用本项目？
 
