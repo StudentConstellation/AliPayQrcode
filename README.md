@@ -2,7 +2,7 @@
 *这是一个供中国用户使用的项目。如果你不知道这是什么，请关闭此页面。
 
 # 预览展示效果
-  [点击预览](https://studentconstellation.github.io/AliPayQrcode/test.html)
+  [点击预览](https://studentconstellation.github.io/alipayqrcode.html)
 
 # 如何使用本项目？
 
@@ -25,5 +25,5 @@
   你可以输入金额，备注查看是否正常工作。
   
 ### 5.正式使用
-  删除多余的 /img 文件夹、readme.md 和 test.html 文件，便可以直接使用了
+  删除多余的 /img 文件夹、readme.md 文件，便可以直接使用了
   你也可以对项目做一些修改，前提是需要 Fork 本项目。
