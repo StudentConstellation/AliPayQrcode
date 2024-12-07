@@ -49,7 +49,7 @@
         let qrCodeDiv = document.getElementById('qr-code');
 
         // 支付限额
-        const PAYMENT_LIMIT = 50000;
+        const PAYMENT_LIMIT = 200;
 
         // 验证处理金额小数2位及格式
         function validateAndFormatAmount() {
@@ -65,7 +65,7 @@
 
             // 检查支付金额
             if (parseFloat(amount) > PAYMENT_LIMIT) {
-                alert("支付金额超出限额，限额为50000元");
+                alert("支付金额超出设定PAYMENT_LIMIT");
                 amountInput.value = PAYMENT_LIMIT;
                 return false;
             }
